@@ -1,2 +1,3 @@
 # Spark
-SparkWordCountWithAnonymousFunctions.java 
+SparkWordCountWithAnonymousFunctions.java
+Count words using anonymous functions.
